@@ -1,6 +1,7 @@
 # :v
 
 Oauth Github
+- node index.js (on Terminal)
 - http://localhost:5000/auth/github
 - login github
 - well :v
